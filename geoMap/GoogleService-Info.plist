@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>202093332358-na5216r3429m9pqc90s15jtfr8lt57g2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.202093332358-na5216r3429m9pqc90s15jtfr8lt57g2</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBUvG0bMAWo7eVN4doI91ZIALrp3T66sRU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>202093332358</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.olgamart.geoMap</string>
+	<key>PROJECT_ID</key>
+	<string>geomap-216613</string>
+	<key>STORAGE_BUCKET</key>
+	<string>geomap-216613.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:202093332358:ios:e17cafa793826f7e</string>
+	<key>DATABASE_URL</key>
+	<string>https://geomap-216613.firebaseio.com</string>
+</dict>
+</plist>
